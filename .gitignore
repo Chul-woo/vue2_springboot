@@ -1,4 +1,4 @@
-##build path 무시
+##무시할 경로들
 build/
 .gradle/
 .idea/
