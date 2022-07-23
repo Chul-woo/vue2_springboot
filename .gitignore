@@ -1,0 +1,4 @@
+##build path 무시
+build/
+.gradle/
+.idea/
